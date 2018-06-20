@@ -1,2 +1,4 @@
 # hello-world
-This is my first GitHub repository!
+My name is James, and this is my first GitHub repository!
+
+I've started this account because I'm a Project Manager/Business Analyst who is trying to make the transition into a Product Manager/Software Engineer career. I've been considering making this transition for a few years now, and I'm SO excited to finally be getting started. Every day I code is another day closer to my dreams and another step deeper into a coding ADDICTION. I absolutely love it. I've always been a natural gamer and I think that stems from my love for logic and rules. As such, coding has been such an amazing outlet; I've found a way of being creative in my logical thinking! Not only has it inspired excitement, but it's also inspired hope. I can work doing something that I truly love, and I can't wait to see what the future has in store.
